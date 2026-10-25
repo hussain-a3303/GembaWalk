@@ -1,0 +1,6 @@
+{
+  "name": "GembaWalk Inspector",
+  "description": "Industrial Gemba Inspection, Real-Time Finding Dispatches, Personnel Matrix & Audit Console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

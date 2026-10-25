@@ -1,0 +1,206 @@
+Area,Category,Questions,Options,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,Assigned Emails,,,
+Warehouse,Generic,What Warehouse are you performing the Gemba in?,"Household Warehouse
+Healthcare Warehouse
+DGRM Warehouse",Household Warehouse,Household Warehouse,Household Warehouse,Household Warehouse,Household Warehouse,Household Warehouse,Healthcare Warehouse,Healthcare Warehouse,Healthcare Warehouse,Healthcare Warehouse,Healthcare Warehouse,Healthcare Warehouse,DGRM Warehouse,DGRM Warehouse,DGRM Warehouse,DGRM Warehouse,DGRM Warehouse,DGRM Warehouse,DGRM Warehouse,DGRM Warehouse,DGRM Warehouse,,,
+Warehouse,Safety,"Is the staff wearing required PPEs as per the PPE Matrix? (safety shoes, helmets, safety vest)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,Sarah.Khan1@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Talha.Mahmood@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,,,,,,
+Warehouse,Safety,"Is man machine interface segrated and properly marked (walkways, forklift/stacker indicators, barrications, stacker/flt pathways, padestrian alert system)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,Sarah.Khan1@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Talha.Mahmood@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,,,,,,
+Warehouse,Safety,Are forklift operators trained and authorized?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,Sarah.Khan1@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Talha.Mahmood@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,,,,,,
+Warehouse,Safety,"Is ERP system in place and funtional? (Fire Extinguishers, Foam Trolleys, Fire Exits clearly marked and unobstructed, Smoke Detectors, Emergency exit lights, ERP understood by staff, safety maps)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,Sarah.Khan1@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Talha.Mahmood@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,,,,,,,,
+Warehouse,Safety,"Upkeep of the building: (Electrical Safety, Exposed/Loose Wiring, Roofs intact, warning signs in place, safe stacking heights)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Zia.Khan.Contractor@reckitt.com,,Sarah.Khan1@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Talha.Mahmood@reckitt.com,Zia.Khan.Contractor@reckitt.com,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,
+Warehouse,Quality,Are pallets in good condition with no damage or risk that could impact the storage or sorting of raw/packaging materials?,"Yes
+No
+N/A",Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Irfan.Faheem@reckitt.com,,,,Sarah.Khan1@reckitt.com,Talha.Mahmood@reckitt.com,Irfan.Faheem@reckitt.com,,,,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,,
+Warehouse,Quality,Are all logbooks filled as per ALCOA principles? Check one logbook.,"Yes
+No
+N/A",Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Irfan.Faheem@reckitt.com,,,,Sarah.Khan1@reckitt.com,Talha.Mahmood@reckitt.com,Irfan.Faheem@reckitt.com,,,,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,,
+Warehouse,5S," Is the area 5S health checklist updated? (Sort, Set, Shine, Standardize, Sustain, all these elements are properly implemented in the area) ","Yes
+No
+N/A",Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Sarah.Khan1@reckitt.com,Talha.Mahmood@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Muhammad.Adnan@reckitt.com,Talha.Mahmood@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,
+Production,Generic,Which Production Block are you performing the Gemba in?,"Household
+Healthcare ",Household,Household,Household,Household,Household,Household,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,Healthcare,,,
+Production,Safety,Is the staff wearing required PPEs as per available PPE Matrix?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Majid.Shaikh@reckitt.com,Inam.BinKhalid@reckitt.com,,,,,,,,,,,,,,
+Production,Safety,"Is man machine interface segrated and properly marked (walkways, LOTO, machine guardings)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Majid.Shaikh@reckitt.com,Inam.BinKhalid@reckitt.com,,,,,,,,,,,,,,
+Production,Safety,"Is ERP system in place and functional? (Fire Extinguishers, Fire Exits clearly marked and unobstructed, Smoke Detectors, Emergency exit lights, ERP understood by staff, safety maps, warning signs in place)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Majid.Shaikh@reckitt.com,Inam.BinKhalid@reckitt.com,,,,,,,,,,,,,,
+Production,Safety,Check if there are any activities especially non-routine ones which require taking risks?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Majid.Shaikh@reckitt.com,Inam.BinKhalid@reckitt.com,,,,,,,,,,,,,,
+Production,Safety,"Upkeep of the building: (Electrical Safety, Exposed/Loose Wiring, Roofs intact)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Sarfaraz.Ahmed@reckitt.com,Hamza.Waqar@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Sarfaraz.Ahmed@reckitt.com,Hamza.Waqar@reckitt.com,,,,,,,,,,,,
+Production,Safety,Does the staff have understanding regarding near miss reporting and RSOs?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Majid.Shaikh@reckitt.com,Inam.BinKhalid@reckitt.com,,,,,,,,,,,,,,
+Production,Quality,Are in-process checks being conducted and recorded correctly?,"Yes
+No
+N/A",Irfan.Faheem@reckitt.com,Muhammad.Ali4@reckitt.com,Ayesha.Aslam@reckitt.com,Rameen.Ashhar@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Irfan.Faheem@reckitt.com,Muhammad.Ali4@reckitt.com,Ayesha.Aslam@reckitt.com,Rameen.Ashhar@reckitt.com,Inam.BinKhalid@reckitt.com,Majid.Shaikh@reckitt.com,,,,,,,,,,,,
+Production,Quality,"Are there any quality issues that need to be addressed? (deviations, customer complaints, CAPA)","Yes
+No
+N/A",Irfan.Faheem@reckitt.com,Muhammad.Ali4@reckitt.com,Ayesha.Aslam@reckitt.com,Rameen.Ashhar@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Irfan.Faheem@reckitt.com,Muhammad.Ali4@reckitt.com,Ayesha.Aslam@reckitt.com,Rameen.Ashhar@reckitt.com,Inam.BinKhalid@reckitt.com,Majid.Shaikh@reckitt.com,,,,,,,,,,,,
+Production,Quality,Are all logbooks filled as per ALCOA principles? Check one logbook.,"Yes
+No
+N/A",Irfan.Faheem@reckitt.com,Muhammad.Ali4@reckitt.com,Ayesha.Aslam@reckitt.com,Rameen.Ashhar@reckitt.com,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Irfan.Faheem@reckitt.com,Muhammad.Ali4@reckitt.com,Ayesha.Aslam@reckitt.com,Rameen.Ashhar@reckitt.com,Inam.BinKhalid@reckitt.com,Majid.Shaikh@reckitt.com,,,,,,,,,,,,
+Production,RPS,"Are all the area communication boards updated? (DOR Boards, Line Level Boards, FIT board, Maintenance Board)","Yes
+No
+N/A",Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Quartulain.Kamal@reckitt.com,,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,,,,,,,
+Production,RPS,CLI checklists present & updated? Does staff understand CLI principles?,"Yes
+No
+N/A",Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Quartulain.Kamal@reckitt.com,,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,,,,,,,
+Production,RPS,Are there any defects/problems present on-line? Any short stoppages or RCPS being performed?,"Yes
+No
+N/A",Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Quartulain.Kamal@reckitt.com,,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,,,,,,,
+Production,RPS,"Any Improvement opportunity? (Manning, Efficiency, Wastage)","Yes
+No
+N/A",Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Quartulain.Kamal@reckitt.com,,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,,,,,,,
+Production,RPS,"Check teams understanding on Continuous Improvements. Do they know key contributors and actions to improve (PDT, UPDT, OEE, Wastage)?","Yes
+No
+N/A",Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Quartulain.Kamal@reckitt.com,,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,,,,,,,
+Production,5S,"Is the area 5S health checklist updated? (Sort, Set, Shine, Standardize, Sustain, all these elements are properly implemented in the area) ","Yes
+No
+N/A",Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Quartulain.Kamal@reckitt.com,,Hamid.Mehmood@reckitt.com,Majid.Shaikh@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,,,,,,,
+Labs,Generic,Which Lab are you performing the Gemba in?,"Household Lab
+Healthcare Lab
+Micro Lab",Household Lab,Household Lab,Household Lab,Household Lab,Household Lab,Household Lab,Healthcare Lab,Healthcare Lab,Healthcare Lab,Healthcare Lab,Healthcare Lab,Healthcare Lab,Micro Lab,Micro Lab,Micro Lab,Micro Lab,Micro Lab,Micro Lab,Micro Lab,Micro Lab,Micro Lab,,,
+Labs,Safety,Is the staff wearing required PPEs as per available PPE Matrix?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,
+Labs,Safety,"Is ERP system in place and functional? (Fire Extinguishers, Fire Exits clearly marked and unobstructed, Smoke Detectors, Emergency exit lights, safety maps, warning signs in place, spill kits for acid/chemical leaks, functional eyewash stations, MSDS of Chemicals, ERP understood by staff)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,
+Labs,Safety,"Upkeep of the building: (Electrical Safety, Exposed/Loose Wiring, Roofs intact)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,
+Labs,Safety,Does the staff have understanding regarding near miss reporting and RSOs?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,
+Labs,Quality,Are reagent preparation records complete and traceable?,"Yes
+No
+N/A",Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,,,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,,,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,,,
+Labs,Quality,Are there any quality issues that need to be addressed? ,"Yes
+No
+N/A",Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,,,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,,,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,,,
+Labs,Quality,Are equipment calibration stickers up-to-date and working standards properly labelled and stored?,"Yes
+No
+N/A",Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,,,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,,,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,,,
+Labs,Quality,Are all logbooks filled as per ALCOA principles? Check one logbook.,"Yes
+No
+N/A",Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,,,,,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,,,,,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,,,,,,,,,,
+Labs,5S,"Is the area 5S health checklist updated? (Sort, Set, Shine, Standardize, Sustain, all these elements are properly implemented in the area) ","Yes
+No
+N/A",Shoaib.Akhtar@reckitt.com,Mohammad.Asim2@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Shoaib.Akhtar@reckitt.com,Ayaz.Baig@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Sidra.Laiq@reckitt.com,Irfan.Faheem@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,,,,,
+Utilities,Safety,Is the staff wearing required PPEs as per available PPE Matrix?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Safety,Are ETP operators trained in chemical handling?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Safety,Are pressure vessels inspected and certification displayed?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Safety,Check if there are any activities especially non-routine ones which require taking risks?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Safety,"Are hot surfaces (boilers, steam lines) insulated and labelled?","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Safety,"Is ERP system in place and functional? (Fire Extinguishers, Fire Exits clearly marked and unobstructed, Smoke Detectors, ERP understood by staff)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Safety,"Upkeep of the building: (Electrical Safety, Exposed/Loose Wiring, Roofs intact)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Safety,Does the staff have understanding regarding near miss reporting and RSOs?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Utilities,Quality,"Are utility quality parameters (e.g., steam pressure, water pH, conductivity, temperature) monitored and recorded regularly?","Yes
+No
+N/A",Irfan.Faheem@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,,
+Utilities,Quality,"Are there any quality issues that need to be addressed? Any deviations related to utility impact on product quality (e.g., HVAC malfunction, water contamination)?","Yes
+No
+N/A",Irfan.Faheem@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,,
+Utilities,Quality,Are utility interruptions logged and reviewed for product impact?,"Yes
+No
+N/A",Irfan.Faheem@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,,
+Utilities,Quality,Are all logbooks filled as per ALCOA principles? Check one logbook.,"Yes
+No
+N/A",Irfan.Faheem@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,,
+Utilities,5S,"Is the area 5S health checklist updated? (Sort, Set, Shine, Standardize, Sustain, all these elements are properly implemented in the area) ","Yes
+No
+N/A",Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,,,,,,,,,,,,,,,,,,
+Rooftops,Generic,Which Rooftop are you performing the Gemba in?,"Household Rooftop
+Healthcare Rooftop
+Engineering Rooftop
+F-14 Rooftop",Household Rooftop,Household Rooftop,Household Rooftop,Household Rooftop,Household Rooftop,Household Rooftop,Healthcare Rooftop,Healthcare Rooftop,Healthcare Rooftop,Healthcare Rooftop,Healthcare Rooftop,Healthcare Rooftop,Engineering Rooftop,Engineering Rooftop,Engineering Rooftop,Engineering Rooftop,Engineering Rooftop,F-14 Rooftop,F-14 Rooftop,F-14 Rooftop,F-14 Rooftop,,,
+Rooftops,Safety,Is the staff wearing required PPEs as per available PPE Matrix?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,
+Rooftops,Safety,"Is man machine interface segrated and properly marked (walkways marked, handrails, anti-slip surfaces, fall protection systems","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,
+Rooftops,Safety,"Is ERP system in place and functional? (Fire Extinguishers, Fire Exits clearly marked and unobstructed, warning signs, ERP understood by staff)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,
+Rooftops,Safety,"Upkeep of the building: (Electrical Safety, Exposed/Loose Wiring, Roofs/Sheds intact)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,
+Rooftops,Quality,"Are solar panel cleaning, maintenance, and performance checks documented?","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,
+Rooftops,Quality,"Is there any visible contamination risk from surroundings or any issues like leakages, corrosion, vibration?","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,
+Rooftops,Quality,Are HVAC filters and exhaust systems maintained and documented?,"Yes
+No
+N/A",Zia.Khan.Contractor@reckitt.com,,,,,,Zia.Khan.Contractor@reckitt.com,,,,,,Zia.Khan.Contractor@reckitt.com,,,,,Zia.Khan.Contractor@reckitt.com,,,,,,
+Rooftops,5S,"Is the area 5S health checklist updated? (Sort, Set, Shine, Standardize, Sustain, all these elements are properly implemented in the area) ","Yes
+No
+N/A",Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,Zia.Khan.Contractor@reckitt.com,,,,
+Other Areas,Generic,Which Area are you performing the Gemba in?,"Outskirts
+Engineering Store
+EHS Store
+Projects Store",Outskirts,Outskirts,Outskirts,Outskirts,Outskirts,Outskirts,Engineering Store,Engineering Store,Engineering Store,Engineering Store,Engineering Store,Engineering Store,EHS Store,EHS Store,EHS Store,EHS Store,EHS Store,Projects Store,Projects Store,Projects Store,Projects Store,,,
+Other Areas,Safety,Are required PPEs being used appropriately for the area?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Tabriaz.Khaliq@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,
+Other Areas,Safety,"Is man machine interface segrated and properly marked (walkways marked, handrails, anti-slip surfaces, fall protection systems","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Tabriaz.Khaliq@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,
+Other Areas,Safety,"Is ERP system in place and functional? (Fire Extinguishers, Fire Exits clearly marked and unobstructed, warning signs, ERP understood by staff)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Tabriaz.Khaliq@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,
+Other Areas,Safety,"Upkeep of the building: (Electrical Safety, Exposed/Loose Wiring, Roofs/Sheds intact)","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Tabriaz.Khaliq@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,
+Other Areas,Safety,"Are ladders, trolleys, or other mobile equipment used safely and stored properly?","Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Tabriaz.Khaliq@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,
+Other Areas,Safety,Are MSDS sheets available (if chemicals or cleaning agents are present)?,"Yes
+No
+N/A",Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Tabriaz.Khaliq@reckitt.com,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,
+Other Areas,Quality,Are relevant records or documents filled in real-time and stored properly?,"Yes
+No
+N/A",Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,,,Tabriaz.Khaliq@reckitt.com,Hamza.Waqar@reckitt.com,,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,,,,,,
+Other Areas,Quality,"Are there any quality issues that need to be addressed? (any visible contamination risk to material/equipment due to dust, heat, moisture)","Yes
+No
+N/A",Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,,,,,Tabriaz.Khaliq@reckitt.com,Hamza.Waqar@reckitt.com,,,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,,,,Muhammad.WaqarUllah.Contractor@reckitt.com,,,,,,
+Other Areas,RPS,"Are there improvement ideas, RCPS actions, or kaizens?","Yes
+No
+N/A",Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Tabriaz.Khaliq@reckitt.com,Hamza.Waqar@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,Muhammad.WaqarUllah.Contractor@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,
+Other Areas,5S,"Is the area 5S health checklist updated? (Sort, Set, Shine, Standardize, Sustain, all these elements are properly implemented in the area) ","Yes
+No
+N/A",Akasha.Mustaqeem@reckitt.com,Shahzad.Memon.Contractor@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Tabriaz.Khaliq@reckitt.com,Hamza.Waqar@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,Syed.Sameeruddin@reckitt.com,Zubair.Ahmed1@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,Muhammad.WaqarUllah.Contractor@reckitt.com,Komal.Hussain@reckitt.com,huzaifa.ansari@reckitt.com,,,,

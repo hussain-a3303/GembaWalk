@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-reckitt-pink: #E0007E;
+  --color-reckitt-pink-hover: #C2006D;
+  --color-reckitt-pink-dark: #A3005A;
+  --color-reckitt-pink-light: #FDF2F8;
+  --color-reckitt-pink-subtle: #FCE7F3;
+  --color-reckitt-navy: #0B1736;
+  --color-reckitt-navy-dark: #070E24;
+  --color-reckitt-navy-card: #0F1D44;
+  --color-reckitt-navy-border: #1E2E5C;
+}
+
+/* Custom Reckitt styling helpers */
+.bg-reckitt-gradient {
+  background: linear-gradient(135deg, #070E24 0%, #0B1736 50%, #16244C 100%);
+}
+
+.text-reckitt-glow {
+  text-shadow: 0 0 20px rgba(224, 0, 126, 0.4);
+}
+
+.border-reckitt-glow {
+  box-shadow: 0 0 15px rgba(224, 0, 126, 0.25);
+}
